@@ -1,3 +1,7 @@
+## Management System
+this program is for system of management for customers!
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
